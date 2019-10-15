@@ -17,7 +17,7 @@
  - Web3.js v1.2.1
 
 ### UML Documents
- - [Activity](uml/activity.png)
- - [Sequence](uml/sequence.png)
- - [State](uml/state.png)
- - [Class](uml/class.png)
+ - [Activity](project-6/uml/activity.png)
+ - [Sequence](project-6/uml/sequence.png)
+ - [State](project-6/uml/state.png)
+ - [Class](project-6/uml/class.png)
